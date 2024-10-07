@@ -109,4 +109,5 @@ AuditLogs
 - <b>Navigate to Log Analytics Workspace and observe the logs for the excessive password resets using the query above</b>
 
 ![image](https://github.com/user-attachments/assets/5d69a815-92af-435f-9503-a03b1d553a37)
-- <b>Microsoft Sentinel Incidents
+- <b>Microsoft Sentinel Incidents</b>
+- <b>Let your windows-vm and linux-vm runs for 24 hours</b>
